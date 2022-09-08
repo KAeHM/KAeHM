@@ -9,9 +9,6 @@
 
 ###
 
-<img align="right" height="180" src="https://drive.google.com/uc?export=view&id=1eU6sGOEVrnHPgfpGnBRNrvTMczQ8_OUf"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
